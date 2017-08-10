@@ -1,1 +1,1 @@
-# progressio
+# Progressio project.
