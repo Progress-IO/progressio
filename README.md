@@ -5,5 +5,5 @@
 - Oscar Fabian Mendez - ofmendez@unal.edu.co - Desarrollador
 - Santiago Peña Sanabria - spenas@unal.edu.co - Desarrollador
 - Luis Enrique Guzmán Avellaneda
-- Juan David Valencia
+- Juan David Valencia - judvalenciaan@unal.edu.co - Desarrollador
 
