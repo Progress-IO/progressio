@@ -1,4 +1,4 @@
-# Progressio project.
+# The Progressio project.
 
 Team:
 - Oscar Fabian Mendez
