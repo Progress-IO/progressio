@@ -1,6 +1,6 @@
 # The Progressio project.
 
 ## Desarrolladores
-- Oscar Fabian Mendez - ofmendez@unal.edu.co
-- Luis Enrique Guzm·n Avellaneda
+- Oscar Fabian Mendez - ofmendez@unal.edu.co - Desarrollador
+- Luis Enrique Guzm√°n Avellaneda
 - Juan David Valencia
